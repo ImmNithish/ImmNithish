@@ -2,7 +2,7 @@
 - 👀 I’m interested in making work easier by automating  ...
 - 🌱 Always a learner ...
 - 💞️ I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
-- 💬 Share your thoughts on Selenium, JAVA, POSTMAN, Rest Assured,  or else take me out for a Movie !!
+- 💬 Share your thoughts on Selenium, JAVA, POSTMAN, Rest Assured,  or else take me out for a Movie 🎬 !!
 - 📫 Reach me out : nithikr81@gmail.com
 - 📄 To know about me : www.linkedin.com/in/itsnithish
 
